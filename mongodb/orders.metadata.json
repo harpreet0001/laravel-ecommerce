@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ecormerce.orders"}],"uuid":"a092b51e95354aeba808b31a7c876362"}

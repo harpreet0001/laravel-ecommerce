@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"new_ecormerce.migrations"}],"uuid":"da91ad0e429c40908bc5032fbc746a62"}

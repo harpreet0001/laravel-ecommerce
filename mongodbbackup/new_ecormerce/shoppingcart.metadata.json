@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"new_ecormerce.shoppingcart"},{"v":{"$numberInt":"2"},"unique":true,"key":{"identifier":{"$numberInt":"1"},"instance":{"$numberInt":"1"}},"name":"identifier_1_instance_1","ns":"new_ecormerce.shoppingcart"}],"uuid":"ffcd93fc2771483ca2d2eb2bf8f6cbda"}

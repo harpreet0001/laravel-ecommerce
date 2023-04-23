@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"new_ecormerce.wishlists"}],"uuid":"348dd15637334541948d90e75872f95b"}

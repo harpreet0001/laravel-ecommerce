@@ -1,0 +1,1 @@
+<?php /**PATH /home/megatanws/public_html/web/resources/views/errors/500.blade.php ENDPATH**/ ?>

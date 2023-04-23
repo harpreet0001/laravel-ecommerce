@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ecormerce.newsletters"}],"uuid":"d5d8b00e6c584ffeb115d82cd2de0884"}

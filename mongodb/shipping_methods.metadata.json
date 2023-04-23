@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ecormerce.shipping_methods"}],"uuid":"f2f050a0cd944d5c9b433b551f67905d"}

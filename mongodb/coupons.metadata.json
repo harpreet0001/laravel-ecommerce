@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ecormerce.coupons"}],"uuid":"2ed723ac5d484c1599019f5f9d1b6bbb"}

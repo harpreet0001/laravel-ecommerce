@@ -1,0 +1,1 @@
+<div>{{ $orders->appends(request()->input())->links() }}</div>

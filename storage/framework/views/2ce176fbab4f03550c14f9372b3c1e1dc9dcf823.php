@@ -1,0 +1,1 @@
+<div><?php echo e($orders->appends(request()->input())->links()); ?></div><?php /**PATH /home/megatanws/public_html/web/resources/views/admin/modules/order/dynamic/pagination.blade.php ENDPATH**/ ?>

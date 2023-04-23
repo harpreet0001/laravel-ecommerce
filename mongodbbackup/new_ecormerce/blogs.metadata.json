@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"new_ecormerce.blogs"}],"uuid":"5f98fe5a1d594187b1ec447552d9e45b"}
